@@ -69,7 +69,7 @@ public class DAOController {
 //			pw.println("Not registered");
 //			Thread.sleep(5000);
 //			res.sendRedirect("signup.jsp");
-			System.out.println("Signup");
+			System.out.println("Signup   ");
 			mav.setViewName("signup.jsp");
 		}
 		// System.out.println(val);
